@@ -51,6 +51,17 @@ a:focus,
 a:hover {
     color: #eb3812
 }
+
+a.pagelink {
+    transition: all .35s;
+    color: #fff
+}
+a.pagelink:focus,
+apagelink.:hover {
+    color: #fff
+}
+
+
 p {
     font-size: 16px;
     line-height: 1.5;
