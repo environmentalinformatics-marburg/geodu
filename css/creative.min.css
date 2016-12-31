@@ -228,6 +228,11 @@ header .header-content .header-content-inner p {
         margin-right: auto
     }
 }
+
+.height-full {
+    min-height: 100vh;
+ }
+
 .section-heading {
     margin-top: 0
 }
